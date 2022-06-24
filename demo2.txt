@@ -1,2 +1,0 @@
-This is day2 turtorial
-Linux using Git bash
